@@ -5,6 +5,7 @@ import { initializeApp } from "firebase/app";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
+  databaseURL: "https://console.firebase.google.com/project/fir-crud-app-ee244/database/fir-crud-app-ee244-default-rtdb/data/~2F",
   apiKey: "AIzaSyBJzSC31x2TO3Y8YXOcn_rZ0EIXK_bcbY0",
   authDomain: "fir-crud-app-ee244.firebaseapp.com",
   projectId: "fir-crud-app-ee244",
